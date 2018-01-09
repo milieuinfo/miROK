@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/miROK">
+    <file>logoVmm.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
